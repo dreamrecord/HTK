@@ -1,7 +1,7 @@
 HTK
 ===
 
-Heres are some useful HTK initial model generators.
+Here are some useful HTK initial model generators.
 
 \1. genProto.py
 
