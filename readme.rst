@@ -7,20 +7,18 @@ Heres are some useful HTK initial model generators.
 
 | A python code to generate lib/proto file.
 
-| Usage:
-| python genProto.py -s [# of states] -o [outputPath]
+* Usage
 
 ::
 
-    python genProto.py -s 5 -o lib/proto
+    python genProto.py -s [# of states] -o [outputPath]
 
 2. genMix.py
 
 | A python code to generate lib/mix2_10.hed file
 
-| Usage:
-| python genMix.py -s [# of states] -g [# of Gaussian mixtures per state] -o [outputPath]
+* Usage
 
 ::
 
-    python genMix.py -s 5 -g 10 -o lib/mix2_10.hed
+    python genMix.py -s [# of states] -g [# of Gaussian mixtures per state] -o [outputPath]
