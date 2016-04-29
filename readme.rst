@@ -6,6 +6,7 @@ Heres are some useful HTK initial model generators.
 \1. genProto.py
 
 | A python code to generate lib/proto file.
+| 
 
 \* Usage
 
@@ -16,6 +17,7 @@ Heres are some useful HTK initial model generators.
 \2. genMix.py
 
 | A python code to generate lib/mix2_10.hed file
+| 
 
 \* Usage
 
