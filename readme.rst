@@ -23,4 +23,6 @@ Here are some useful HTK initial model generators.
 
 ::
 
-    python genMix.py -s [# of states] -g [# of Gaussian mixtures per state] -o [outputPath]
+    python genMix.py -s [# of states] -g [# of Gaussian mixtures per state] -m [modelListPath] -o [outputPath]
+
+| You must specify each model's name in file **modelList**. There is an example in the directory.
